@@ -8,20 +8,12 @@ Kohonen map (or self-organizing map) is an algorithm for unsupervised learning o
 
 [som]: https://en.wikipedia.org/wiki/Self-organizing_map
 
-## Requirements
-You can run 
-
-```sh
-pip install -r requirements.txt
-```
-to install the dependencies, or simply check the [requirements][reqs] file for the libraries you need installed.
-
 
 ## Usage
 On the terminal, run
 
 ```sh
-jupyter notebook Kohonen maps on hand-written digits.ipynb
+jupyter notebook Kohonen som on hand-written digits.ipynb
 ```
 for example usage and some experiments on the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
